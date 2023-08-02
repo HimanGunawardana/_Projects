@@ -1,0 +1,12 @@
+.htf{
+    color: rgba(252,156,17,0.97);
+    position: absolute; 
+    top: 60%; 
+    width: 90%; 
+    font-family: mv boli;
+    font-weight: bold;
+    font-size: 80px;
+    text-align: left;
+    justify-content: center;
+    
+}

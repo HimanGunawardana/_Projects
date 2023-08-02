@@ -1,0 +1,10 @@
+@charset "utf-8";
+.container .row .col-xl-5 {
+    color: #FFFFFF;
+}
+.container .row .col-xl-3 {
+    color: #FFFFFF;
+}
+.container .row .col-xl-4.h1 {
+    color: #FFFFFF;
+}
